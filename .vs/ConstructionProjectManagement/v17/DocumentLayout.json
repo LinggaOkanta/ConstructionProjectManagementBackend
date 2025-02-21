@@ -1,0 +1,464 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:package.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\tests\\unittests\\projectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:tests\\unittests\\projectservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\presentation\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:presentation\\middleware\\loggingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\presentation\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:presentation\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\presentation\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:presentation\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\infrastructure\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\repositories\\loginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\infrastructure\\repositories\\constructionprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\repositories\\constructionprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\infrastructure\\external\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\external\\kafkaproducerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\infrastructure\\external\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\external\\kafkaconsumerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\infrastructure\\external\\kafkabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\external\\kafkabackgroundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\infrastructure\\external\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\external\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\domain\\interfaces\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:domain\\interfaces\\iloginrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\domain\\interfaces\\iconstructionprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:domain\\interfaces\\iconstructionprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:domain\\entities\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\domain\\entities\\constructionproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:domain\\entities\\constructionproject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\application\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:application\\services\\loginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\application\\services\\constructionprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:application\\services\\constructionprojectservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:application\\dtos\\loginresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:application\\dtos\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|d:\\job interview\\constructionproject\\constructionprojectmanagementbackend\\application\\dtos\\editprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:application\\dtos\\editprojectrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\application\\dtos\\constructionprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90873BDE-2DF5-4848-98F1-A8C5279A5468}|ConstructionProjectManagement.csproj|solutionrelative:application\\dtos\\constructionprojectdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 140,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 23,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "package.json",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\package.json",
+              "RelativeDocumentMoniker": "package.json",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\package.json",
+              "RelativeToolTip": "package.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T08:15:44.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProjectServiceTests.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Tests\\UnitTests\\ProjectServiceTests.cs",
+              "RelativeDocumentMoniker": "Tests\\UnitTests\\ProjectServiceTests.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Tests\\UnitTests\\ProjectServiceTests.cs",
+              "RelativeToolTip": "Tests\\UnitTests\\ProjectServiceTests.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:25:58.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "KafkaBackgroundService.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\KafkaBackgroundService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\External\\KafkaBackgroundService.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\KafkaBackgroundService.cs",
+              "RelativeToolTip": "Infrastructure\\External\\KafkaBackgroundService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBAAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T06:01:49.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoggingMiddleware.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Presentation\\Middleware\\LoggingMiddleware.cs",
+              "RelativeDocumentMoniker": "Presentation\\Middleware\\LoggingMiddleware.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Presentation\\Middleware\\LoggingMiddleware.cs",
+              "RelativeToolTip": "Presentation\\Middleware\\LoggingMiddleware.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwBMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:57:05.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "KafkaConsumerService.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\KafkaConsumerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\External\\KafkaConsumerService.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\KafkaConsumerService.cs",
+              "RelativeToolTip": "Infrastructure\\External\\KafkaConsumerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:56:13.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "KafkaProducerService.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\KafkaProducerService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\External\\KafkaProducerService.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\KafkaProducerService.cs",
+              "RelativeToolTip": "Infrastructure\\External\\KafkaProducerService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:55:42.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ElasticSearchService.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\ElasticSearchService.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\External\\ElasticSearchService.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\External\\ElasticSearchService.cs",
+              "RelativeToolTip": "Infrastructure\\External\\ElasticSearchService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwB8AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T05:44:32.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EditProjectRequest.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\EditProjectRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\EditProjectRequest.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\EditProjectRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\EditProjectRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-21T02:56:16.818Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "LoginResponse.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\LoginResponse.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginResponse.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\LoginResponse.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAMAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:53:49.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Presentation\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Presentation\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\LoginController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T08:04:50.109Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRepository.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\Repositories\\LoginRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\LoginRepository.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\Repositories\\LoginRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\LoginRepository.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAlwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:50:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ILoginRepository.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Interfaces\\ILoginRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\ILoginRepository.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Interfaces\\ILoginRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\ILoginRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:50:04.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginService.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\Services\\LoginService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\LoginService.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\Services\\LoginService.cs",
+              "RelativeToolTip": "Application\\Services\\LoginService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACkAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:48:34.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\LoginRequest.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\LoginRequest.cs",
+              "RelativeToolTip": "Application\\DTOs\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-20T07:45:48.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEUAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:19:16.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Presentation\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Presentation\\Controllers\\ProjectsController.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Presentation\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Presentation\\Controllers\\ProjectsController.cs",
+              "ViewState": "AQIAAEwAAAAAAAAAAAAkwG8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:18:34.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ConstructionProjectRepository.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\Repositories\\ConstructionProjectRepository.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Repositories\\ConstructionProjectRepository.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\Repositories\\ConstructionProjectRepository.cs",
+              "RelativeToolTip": "Infrastructure\\Repositories\\ConstructionProjectRepository.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAgwCQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:17:50.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Infrastructure\\Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Infrastructure\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Infrastructure\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwBMAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:17:22.078Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ConstructionProjectService.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\Services\\ConstructionProjectService.cs",
+              "RelativeDocumentMoniker": "Application\\Services\\ConstructionProjectService.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\Services\\ConstructionProjectService.cs",
+              "RelativeToolTip": "Application\\Services\\ConstructionProjectService.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwC8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:16:57.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ConstructionProjectDto.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\ConstructionProjectDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\ConstructionProjectDto.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Application\\DTOs\\ConstructionProjectDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\ConstructionProjectDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:16:36.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IConstructionProjectRepository.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Interfaces\\IConstructionProjectRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IConstructionProjectRepository.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Interfaces\\IConstructionProjectRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IConstructionProjectRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:16:02.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Entities\\Users.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\Users.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Entities\\Users.cs",
+              "RelativeToolTip": "Domain\\Entities\\Users.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:15:24.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ConstructionProject.cs",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Entities\\ConstructionProject.cs",
+              "RelativeDocumentMoniker": "Domain\\Entities\\ConstructionProject.cs",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\Domain\\Entities\\ConstructionProject.cs",
+              "RelativeToolTip": "Domain\\Entities\\ConstructionProject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T06:15:13.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Job Interview\\ConstructionProject\\ConstructionProjectManagementBackend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-19T01:54:21.761Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
